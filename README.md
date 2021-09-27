@@ -3,8 +3,8 @@ Preparando um curso de ruby, para o youtube ou udemy
 
 <p>This is a normal paragraph:</p>
 
-<pre>
 <h4>Ruby Introduction</h4>
+<pre>
 <code>
 # Introdution
 
@@ -63,7 +63,10 @@ robot " |-|     |-|"
 
 
 </code>
+</pre>
 <br>
+<h4>Output</h4>
+<pre>
 <code>
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-= Hello, I'm erikfritas -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
