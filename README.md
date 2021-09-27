@@ -1,7 +1,11 @@
 # ruby
 Preparando um curso de ruby, para o youtube ou udemy
 
-[´
+<p>This is a normal paragraph:</p>
+
+<pre>
+<code>
+
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-= Hello, I'm erikfritas -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 ------------------------------------------------------------------------------------
@@ -16,6 +20,6 @@ MVC pattern.
 				  | |     | |
 				  | |     | |
 				  |-|     |-|
+</code>
+</pre>
 
-
-´]
