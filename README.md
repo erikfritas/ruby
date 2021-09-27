@@ -4,7 +4,7 @@ Preparando um curso de ruby, para o youtube ou udemy
 <p>This is a normal paragraph:</p>
 
 <pre>
-<code>
+<code align="center">
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-= Hello, I'm erikfritas -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
