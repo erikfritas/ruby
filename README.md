@@ -1,2 +1,2 @@
 # ruby
-Estou preparando um curso de ruby, para meu canal do youtube
+Preparando um curso de ruby, para o youtube ou udemy
