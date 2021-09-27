@@ -1,4 +1,5 @@
 
+$global_ = "global" # global var
 string_ = "string"  # string
 age_ = 17           # int
 weight_ = 49.8      # double or float
