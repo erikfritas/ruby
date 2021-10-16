@@ -1,7 +1,4 @@
 # ruby
-Preparando um curso de ruby, para o youtube ou udemy
-
-<p>This is a normal paragraph:</p>
 
 <h4>Ruby Introduction</h4>
 <pre>
